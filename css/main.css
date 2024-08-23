@@ -6,8 +6,9 @@ body{
     background-image: url("https://visualounge.b-cdn.net/wp-content/uploads/2016/04/japan-animated-in-gifs.gif");
     background-size: 1750px;
     background-repeat: repeat;
-
-  
+    background-position: center;
+    background-size: cover;
+   
 }
     
 
@@ -46,7 +47,7 @@ nav .nav-right-section a{
 
 nav .nav-right-section .menu-icon{
     background-image: url('https://cdn-icons-png.freepik.com/512/8215/8215315.png'); 
-        background-repeat: no-repeat;
+    background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
     width: 26px;
@@ -105,12 +106,12 @@ main .main-input-container{
     }
 
     main .main-input .search-icon{
-        background-image: url('https://img.icons8.com/android/24/000000/search.png');
+        background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWCBhh59QNIm7SsAiaajQ2gtfNLrMoNws3Fg&s');
         background-repeat: no-repeat;
         background-position: center;
         background-size: contain;
-        width: 18px;
-        height: 18px;
+        width: 19px;
+        height: 19px;
 
     }
 
